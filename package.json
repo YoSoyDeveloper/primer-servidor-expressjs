@@ -1,0 +1,14 @@
+{
+  "name": "primer-servidor-expressjs",
+  "version": "1.0.0",
+  "description": "Este es mi primer sevidor usando expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YoSoyDev",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
